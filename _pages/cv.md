@@ -16,6 +16,16 @@ Education
 Work Experience
 ======
 
+* **Tx Planning Intern** — Vodafone (Sep 2023 – Aug 2024)
+  * Hybrid role in Ankara
+  * Skills: Synchronization, 4G and network planning
+
+* **Bootcamp Student** — TÜBİTAK BİLGEM YTE (Oct 2023)
+  * Java and programming bootcamp in Ankara
+
+Leadership & Community
+======
+
 * **Organizer** — Google Developer Groups on Campus UTAA (Aug 2025 – Present)
   * Community organizing and event management
   * Previously: Organization & Planning Team Lead (Feb – Aug 2025), Core Member (Sep 2024 – Feb 2025)
@@ -30,16 +40,6 @@ Work Experience
 * **Trainee** — Yetkin Gençler / YetGen (Sep – Nov 2024)
   * 12-week 21st Century Competencies Awareness Training Program
   * Presentation techniques, teamwork, career planning, Excel modeling
-
-* **Tx Planning Intern** — Vodafone (Sep 2023 – Aug 2024)
-  * Hybrid role in Ankara
-  * Skills: Synchronization, 4G and network planning
-
-* **Bootcamp Student** — TÜBİTAK BİLGEM YTE (Oct 2023)
-  * Java and programming bootcamp in Ankara
-
-Leadership & Community
-======
 
 * **Board Member** — THKÜ Bilim Kurgu ve Fantastik Topluluğu (Oct 2023 – Oct 2024)
 * **Founder & President** — OKU Versebyte Software Student Club (Oct 2022 – Oct 2023)
