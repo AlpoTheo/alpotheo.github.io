@@ -11,7 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, UTAA (ongoing)
+* **B.S. in Computer Engineering** — Türk Hava Kurumu Üniversitesi (Sep 2023 – Jun 2027)
+  * Skills: LTspice, Proteus
+
+* **B.S. in E-Commerce/Electronic Commerce** — Ankara Üniversitesi (Oct 2021 – Jun 2025)
+
+* **B.S. in Computer Engineering** — Osmaniye Korkut Ata Üniversitesi (Sep 2021 – Sep 2023)
+  * Activities: Versebyte Software Club
 
 Work Experience
 ======
