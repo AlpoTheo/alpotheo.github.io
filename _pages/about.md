@@ -8,23 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Alp Doruk Şengün**, a Computer Engineering student based in Ankara, Turkey. I'm passionate about software development, game development, and AI technologies.
+I am a **Computer Engineering** student at [Turk Hava Kurumu University](https://www.thk.edu.tr/) (UTAA), expected to graduate in 2027. Alongside my primary degree, I hold a **B.S. in E-Commerce** from Ankara University.
 
-I'm currently an **Organizer at Google Developer Groups on Campus UTAA**, where I previously served as Organization and Planning Team Lead and Core Member. I'm also a trainee in game development (Unity, C#) at the Google AI & Technology Academy.
+Currently, I serve as an **Organizer** at [Google Developer Groups on Campus UTAA](https://gdg.community.dev/), where I lead community events, workshops, and hackathons. I am also training in **Game Development** (Unity & C#) through the Google AI & Technology Academy.
 
-## Experience Highlights
+My professional background includes a year-long **Tx Planning Internship at Vodafone**, where I worked on 4G network synchronization and planning. I am also the **Founder & Former President** of the Versebyte Software Student Club at OKU.
 
-- **GDG on Campus UTAA** — Organizer (Aug 2025 – Present), Organization & Planning Team Lead (Feb – Aug 2025), Core Member (Sep 2024 – Feb 2025)
-- **Yapay Zeka ve Teknoloji Akademisi** — Trainee, Game Development (Dec 2024 – Aug 2025)
-- **Kedimi7** — Software Developer (Aug 2024 – Feb 2025)
-- **Yetkin Gençler (YetGen)** — Trainee, 21st Century Competencies Program (Sep – Nov 2024)
-- **Vodafone** — Tx Planning Intern (Sep 2023 – Aug 2024)
-- **TÜBİTAK BİLGEM YTE** — Bootcamp Student, Java & Programming (Oct 2023)
-- **THKÜ Bilim Kurgu ve Fantastik Topluluğu** — Board Member (Oct 2023 – Oct 2024)
-- **OKU Versebyte Software Student Club** — Founder & President (Oct 2022 – Oct 2023)
+---
 
-## Skills
+## What I Do
 
-Unity, C#, Java, OOP, CSS, Synchronization, 4G, Microsoft Excel, Teamwork, Volunteering
+- **Software Development** — OOP, Java, C#, web technologies
+- **Game Development** — Unity engine, C# scripting
+- **Community Leadership** — Organizing tech events, managing volunteer teams, mentoring peers
+- **Telecommunications** — Hands-on experience with 4G network planning at Vodafone
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alpsengun/) or check out my projects on [GitHub](https://github.com/AlpoTheo).
+---
+
+## Current Focus
+
+- Advancing my skills in **AI and machine learning**
+- Building interactive **game projects** with Unity
+- Growing the **GDG on Campus UTAA** developer community
+- Contributing to **open-source projects**
+
+---
+
+<div style="text-align: center; margin-top: 1.5em;">
+  <a href="/cv/" style="font-weight: bold;">View My Full CV &rarr;</a>
+</div>
